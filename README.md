@@ -95,7 +95,7 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/Anurag-Ahirwar/final_project
-   cd FINAL_PROJECT
+   cd final_project
    npm install
 
 2. Usage
