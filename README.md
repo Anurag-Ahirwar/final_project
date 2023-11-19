@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,51 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+
+# ComicScribbler
+
+ComicScribbler is a web application that allows you to generate comic panels with image annotations. This project was created as part of the Dashtoon Product Engineer Assignment.
+
+## Features
+
+- Generate comic panels with text annotations.
+- Fetch random anime images from Unsplash.
+- Integrate with the Hugging Face API for image generation.
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Anurag-Ahirwar/final_project
+   cd ComicScribbler
+   npm install
+
+2. Usage
+
+    Start the development server:
+
+    bash
+    npm start
+
+This will run the app in development mode. Open http://localhost:3000 to view it in the browser.
+
+Technologies Used
+
+    React
+    Unsplash API
+    Hugging Face API
+
+By Anurag Ahirwar - 200123009
+IIT Guwahati
