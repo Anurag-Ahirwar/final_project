@@ -95,14 +95,14 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/Anurag-Ahirwar/final_project
-   cd ComicScribbler
+   cd FINAL_PROJECT
    npm install
 
 2. Usage
 
     Start the development server:
 
-    bash
+    ```bash
     npm start
 
 This will run the app in development mode. Open http://localhost:3000 to view it in the browser.
