@@ -77,7 +77,7 @@ ComicScribbler is a web application that allows you to generate comic panels wit
 ## Features
 
 - Generate comic panels with text annotations.
-- Fetch random anime images from Unsplash.
+- Every time you open the page or refresh the page the app fetch random anime images from Unsplash which appears on the background of the app.
 - Integrate with the Hugging Face API for image generation.
 
 ## Getting Started
