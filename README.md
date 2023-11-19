@@ -107,7 +107,14 @@ Before you begin, ensure you have the following installed:
 
 This will run the app in development mode. Open http://localhost:3000 to view it in the browser.
 
-Technologies Used
+##### Compatibility
+
+The website is designed to work on both web and mobile browsers.
+##### Limitation
+
+The Unsplash API has a limitation of generating 50 background images per hour. Ensure you do not exceed this limit during usage.
+
+### Technologies Used
 
     React
     Unsplash API
